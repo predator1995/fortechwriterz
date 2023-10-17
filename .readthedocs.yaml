@@ -14,9 +14,3 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
-python:
-  install:
-  - method: pip
-    path: .
-    extra_requirements:
-      - "docs"
