@@ -19,6 +19,6 @@ python:
     - method: pip
       path: .
       extra_requirements:
-        - "pip install: mkdocs: 'material'"
+        - "pip install mkdocs-material'"
 
 
