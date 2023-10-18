@@ -1,0 +1,29 @@
+.warning-label {
+    border: 2px solid #f8b809;
+    background-color: #fff5e5;
+    padding: 10px;
+    margin: 10px 0;
+    color: #f8b809;
+    font-weight: bold;
+}
+
+/* Note Label */
+.note-label {
+    border: 2px solid #3399ff;
+    background-color: #e5f0ff;
+    padding: 10px;
+    margin: 10px 0;
+    color: #3399ff;
+    font-weight: bold;
+}
+
+/* Info Label */
+.info-label {
+    border: 2px solid #33cc33;
+    background-color: #e5ffe5;
+    padding: 10px;
+    margin: 10px 0;
+    color: #33cc33;
+    font-weight: bold;
+}
+

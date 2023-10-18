@@ -16,3 +16,21 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
+<div class="warning-label">
+
+**Warning:** This is an important message that requires attention.
+
+</div>
+
+<div class="note-label">
+
+**Note:** Here's some additional information to consider.
+
+</div>
+
+<div class="info-label">
+
+**Information:** This is some useful information you should be aware of.
+
+</div>
+

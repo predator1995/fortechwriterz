@@ -9,4 +9,7 @@ nav:
 
 copyright: "mukhammart"
 
+extra_css:
+  - custom.css
+
 
