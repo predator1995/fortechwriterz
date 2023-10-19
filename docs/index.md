@@ -18,7 +18,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <div class="warning-label">
 
-**Warning:** This is an important message that requires attention.
+This is an important message that requires attention.
 
 </div>
 
