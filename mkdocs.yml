@@ -12,5 +12,3 @@ copyright: "mukhammart"
 extra_css:
   - custom.css
 
-extra_javascript:
-  - chatbot.js
