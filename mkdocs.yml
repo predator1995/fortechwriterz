@@ -1,14 +1,41 @@
 site_name: techdocs
 theme:
   name: material
-
-
+ 
+docs_dir: docs
 nav:
-- Home: 'index.md'
-- About: 'about.md'
+- Getting started: 'index.md'
+- 'Tutorials': 
+      - 'Preparation before start':
+            - 'Background': 'tutorials/preparation-before-start/background.md'
+            - 'Learning platforms': 'tutorials/preparation-before-start/learning_platforms.md'
+      - 'Getting information':
+            - 'Making notes': 'tutorials/getting-info/making_notes.md'
+            - 'Recording audio': 'tutorials/getting-info/recording_audio.md'
+- 'How to guide': 'how-to-guide/how_to_guide.md'
+- 'Explanations': 'explanations/explanations.md'
+- 'References': 'references/references.md'
 
 copyright: "mukhammart"
 
 extra_css:
   - custom.css
+  - stylesheets/extra.css
 
+markdown_extensions: 
+- attr_list
+- pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- pymdownx.highlight:
+      pygments_lang_class: true
+
+-  pymdownx.tasklist:
+      custom_checkbox: true
+
+- pymdownx.betterem
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+
+  
