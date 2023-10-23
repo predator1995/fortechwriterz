@@ -1,35 +1,31 @@
 # Welcome to knowledge base for technical writers
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Website can be used for learning and practical purposes in the field of ***Technical Writing***
 
-## Commands
+## How we get there
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The story began from nothing. I wanted to share shareable data with people interested in **TechWriting**
 
-## Project layout
+I've encountered some trouble situations to become a decent **Tech Writer**, there are some:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Enough time to research. Current case is prevalent among technical writers, due to the tasks coming from their current work. Therefore, the only way is to learn out of work. (_For instance, home_)
 
-<div class="warning-label">
+* Misunderstanding field for Head. As I'm from Uzbekistan, majority of head empoyers are not aware of this field (_technical writing_)
 
-This is an important message that requires attention.
+* Different opinions. Through the whole internet communities, there are too many misleading Information, which cannot be solved without a decent Technical Writer (_Mentor_)
 
-</div>
+....
 
-<div class="note-label">
+> I could count more, but the main problems have been already mentioned!
 
-**Note:** Here's some additional information to consider.
 
-</div>
+# Content consists of 4 sections
 
-<div class="info-label">
+* Tutorials
+* How to guide
+* Explanations
+* References
 
-**Information:** This is some useful information you should be aware of.
 
-</div>
+## Turorials
+
