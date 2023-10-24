@@ -1,32 +1,18 @@
-# Tutorials regarding technical writing
-
-In this section you will create some part of technical documentation and get satisfied at the end of the tutorial!
+# Background
 
 
-[Send :fontawesome-solid-paper-plane:](#){ .md-button }
-
-:fontawesome-regular-face-laugh-wink:
-
-:smile:
-:fontawesome-regular-face-laugh-wink:
-
-- [x] New version
-- [x] Another version
-- [ ] Last version
-
+Before you go to apply for technical writer position you should be aware of some tips regarding background. 
 
 !!! note
 
-    new version has been added
+    **Background** - knowledge or experience that can be applied to do some job.
 
-!!! warning
 
-    Yep
+Backgrounds that can be reviewed while applying for technical writer position:
 
-!!! success
+- Philology
+- IT Engineering
 
-    yes
+## Philology
 
-!!! example
-
-    ohhh
+People coming from current field are often well-read in historical and language directions.
