@@ -54,9 +54,9 @@ The best choice would be to:
     4. In case you have been suggested to work with text (*to work as a copywriter or something looks closer*) for free, feel free and take that task. That is a good chance to try to work with text!
     5. In the long run, give the written manual to anyone to read. Let them estimate you by giving objective feedback.
   3. Get acquainted with popular editors for Texting. There are several prevalent text editors for technical writers: ***SublimeText, VsCode, Notepad++***. (*Google Docs, Word can also be used to learn how to work with hotkeys*)
-  4. Take part in quizzes in terms of writing on the keyboard. Fast typing is the key of carrying yourself to the destination (*tasks, job-promotion etc.*) faster
+  4. Take part in quizzes in terms of writing on the keyboard. Fast typing is the key of carrying yourself to the destination (*accomplishing tasks, faster job promotion etc.*) faster
      1. Visit [typingclub.com](typingclub.com) website, to learn how to type in appropriate way.
-     2. Visit [typeracer.com](typeracer.com) website to type fast. Racing is undoubtedly provded. Recall the times when you played in your childhood, feel the same, feel free.
+     2. Visit [typeracer.com](typeracer.com) website to type fast. Racing is undoubtedly provided. Recall the times when you played in your childhood, feel the same, feel free.
   5. Prepare a portfolio with some manuals you have done.
      1. Once you listed all the works you have done, you may start looking for a position (*still technical writer*
 :fontawesome-regular-face-laugh-wink:).
