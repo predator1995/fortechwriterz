@@ -55,6 +55,8 @@ The best choice would be to:
     5. In the long run, give the written manual to anyone to read. Let them estimate you by giving objective feedback.
   3. Get acquainted with popular editors for Texting. There are several prevalent text editors for technical writers: ***SublimeText, VsCode, Notepad++***. (*Google Docs, Word can also be used to learn how to work with hotkeys*)
   4. Take part in quizzes in terms of writing on the keyboard. Fast typing is the key of carrying yourself to the destination (*tasks, job-promotion etc.*) faster
+     1. Visit [typingclub.com](typingclub.com) website, to learn how to type in appropriate way.
+     2. Visit [typeracer.com](typeracer.com) website to type fast. Racing is undoubtedly provded. Recall the times when you played in your childhood, feel the same, feel free.
   5. Prepare a portfolio with some manuals you have done.
      1. Once you listed all the works you have done, you may start looking for a position (*still technical writer*
 :fontawesome-regular-face-laugh-wink:).
@@ -86,9 +88,4 @@ There are some tips to be done:
       1. Soft skills will help you not to ruin your first step of interviews with Recruiter or HR.
       2. Work on the manner of communication. You may easily record yourself on the camera and just audio itself, giving simple questions and responding to yourself, and after that replay it and listen. If there is something sounds not trustworthy as you would hear from your interlocutor, then you ought to work on that part of your speech.
    3. Prepare yourself to type the same number of words or even more. As technical writing demands much typing, you should not relax and give up typing by saying "Eventually...". No, that is another experience, but with the same skill.
-      1. Visit [typingclub.com](typingclub.com) website, to learn how to type in appropriate way.
-      2. Visit [typeracer.com](typeracer.com) website to type fast. Racing is undoubtedly provded. Recall the times when you played in your childhood, feel the same, feel free.
-
-
-
-
+     
