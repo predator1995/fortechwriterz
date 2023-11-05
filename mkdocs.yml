@@ -1,7 +1,23 @@
 site_name: techdocs
 theme:
   name: material
- 
+  features:
+    - navigation.sections
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
 docs_dir: docs
 nav:
 - Getting started: 'index.md'
@@ -14,15 +30,29 @@ nav:
 - 'References': 'references/references.md'
 - 'Help': 'help.md'
 
-copyright: "mukhammart"
 
 extra_css:
   - custom.css
   - stylesheets/extra.css
   - css/neoteroi-mkdocs.css
 
+extra: 
+      alternate:
+      - name: English
+        link: /docs/
+        lang: en
+      - name: Русский
+        link: /ru/
+        lang: ru
+      - name: O'zbekcha
+        link: /uz/
+        lang: uz
+
 markdown_extensions: 
 - attr_list
+- toc:
+      permalink: true
+- pymdownx.highlight
 - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -31,10 +61,10 @@ markdown_extensions:
 
 -  pymdownx.tasklist:
       custom_checkbox: true
-
 - pymdownx.betterem
 - admonition
 - pymdownx.details
 - pymdownx.superfences
 
   
+copyright: "mukhammart"
