@@ -28,15 +28,21 @@ The story began from nothing. I wanted to share shareable data with people inter
 
 Current website is divided into 4 main sections:
 
+
+<div class = "grid cards" markdown>
+
 - **Tutorials**. Here you should start your point of diving into technical writing.
 - **How-to guides**. The folder will lead your to answer you common questions in technical writing starting from "How to create a specific technical documentation" and ending with much more complicated relative things
-- References
-- Explanations
+- **References**. Current section is your `Cheatsheet` that will help you derive insufficient data from *How-to guides* and *Tutorials* sections.
+- **Explanations**. Explanations describe the conception of being and becoming a technical writer, of technical documentation, its approaches and so on.
+
+</div>
 
 
+  `+` **Help** - follow the link and be helped :octicons-heart-fill-24:{ .heart }
 
 
-  `+` Help
+{--deleted--}
 
 
 

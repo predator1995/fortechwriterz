@@ -50,6 +50,7 @@ extra:
 
 markdown_extensions: 
 - attr_list
+- md_in_html
 - toc:
       permalink: true
 - pymdownx.highlight
@@ -64,7 +65,18 @@ markdown_extensions:
 - pymdownx.betterem
 - admonition
 - pymdownx.details
-- pymdownx.superfences
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.tabbed:
+      alternate_style: true
+- pymdownx.superfences:
+       custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
 
   
 copyright: "mukhammart"

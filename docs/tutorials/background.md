@@ -12,7 +12,7 @@ Backgrounds that can be reviewed while applying for technical writer position:
 - IT Engineering
 
 
-!!! success
+!!! info "Opt for"
 
     If you are neither a philologist or IT specialist, then you should follow below-mentioned instructions both **Philology** and **IT Engineering** headings!
 

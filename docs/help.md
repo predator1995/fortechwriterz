@@ -15,6 +15,6 @@ I will try to respond **ASAP** (*as soon as possible*), usually it takes 1 or 2 
 
 I would be glad to hear that you (*visitors of current website*) will try to help your acquaintances or people who are insterested in technical writing by sharing our website (*of course if you like the content you read*)
 
-!!! note
+!!! note "Help"
 
     Get help and help others!
