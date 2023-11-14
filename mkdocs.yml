@@ -23,8 +23,7 @@ nav:
 - Getting started: 'index.md'
 - 'Tutorials': 
       - 'Background': 'tutorials/background.md'
-      - 'Making notes': 'tutorials/making_notes.md'
-      - 'Recording audio': 'tutorials/recording_audio.md'
+      - 'Creating knowledge base': 'tutorials/creating_kb.md'
 - 'How to guide': 'how-to-guide/how_to_guide.md'
 - 'Explanations': 'explanations/explanations.md'
 - 'References': 'references/references.md'

@@ -3,10 +3,10 @@
 
 Before you go to apply for technical writer position you should be aware of some tips regarding background. 
 
- **Background** - knowledge or experience that can be applied to do some job.
+ **Background** - knowledge or experience that has been gained prior to be applied for some job.
 
 
-Backgrounds that can be reviewed while applying for technical writer position:
+There are several backgrounds, that literally are in a flow with ^^technical writing^^:
 
 - Philology
 - IT Engineering

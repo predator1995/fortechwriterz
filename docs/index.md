@@ -1,4 +1,3 @@
-# Welcome to knowledge base for technical writers
 
 ## Preamble
 
