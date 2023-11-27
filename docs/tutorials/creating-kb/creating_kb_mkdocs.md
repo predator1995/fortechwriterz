@@ -1,0 +1,1 @@
+## Why do we create knowledge base

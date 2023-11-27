@@ -23,7 +23,9 @@ nav:
 - Getting started: 'index.md'
 - 'Tutorials': 
       - 'Background': 'tutorials/background.md'
-      - 'Creating knowledge base': 'tutorials/creating_kb.md'
+      - 'Knowledge Base':
+          - "Creating knowledge base via gitbook": 'tutorials/creating-kb/creating_kb_gitbook.md'
+          - "Creating knowledge base via dokuwiki": 'tutorials/creating-kb/creating_kb_dokuwiki.md'
 - 'How to guide': 'how-to-guide/how_to_guide.md'
 - 'Explanations': 'explanations/explanations.md'
 - 'References': 'references/references.md'
